@@ -11,9 +11,6 @@ char.forEach(function(botao) {
            concat = text.textContent
 
         }
-        else if(concat.lastchild = '+' || concat.lastchild = '/' || concat.lastchild = '-' || concat.lastchild = '*' ){
-            
-        }
         else if(valor === 'C'){
             text.textContent = ""
             concat = ""
