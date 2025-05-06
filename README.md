@@ -1,4 +1,4 @@
---------- Calculadora de JS  --------------
+                --------- Calculadora de JS  --------------
 
 Calculadora desenvolvida conforme meus estudos de manipulação de DOM e Java Script
 
